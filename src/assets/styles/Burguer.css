@@ -1,0 +1,40 @@
+li{
+  
+    background-color: #ffff;
+    width: 10rem;
+    height: 10rem;
+    padding: 1rem;
+    border-radius: .5rem;
+    margin: 1.2rem .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+li img{
+    width: 60%;
+    border-radius: 50%;
+}
+
+li h3{
+    color: #FA9827;
+}
+
+li button{
+background-color: #4863F7;
+font-weight: bold;
+border: none;
+}
+
+li .description{
+    color: #333;
+    font-size: 1.rem;
+}
+
+li p{
+    color: #2DD361;
+}
+li button:hover{
+    background:#6c80f4 ;
+    
+}

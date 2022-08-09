@@ -1,0 +1,15 @@
+main{
+   
+    width: 70vw;
+    height: 100vh;
+    background: rgba(255, 255,255, .1);
+    border-radius: .5rem;
+    margin-top: 1rem;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}

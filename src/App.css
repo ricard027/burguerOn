@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  list-style: none
+}
+
+body{
+  background: url('./assets/img/imagemBackground.png');
+  margin: 0 auto;
+  display: grid;
+  justify-content: center;
+  overflow: hidden;
+}
+.total{
+  padding: 0 1rem;
+  width: 100%;
+  height: 15rem;
+  margin-top: 1rem;
+  border: none;
+}
+

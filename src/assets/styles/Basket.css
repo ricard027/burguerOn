@@ -1,0 +1,49 @@
+aside{
+background: rgba(255, 255,255, .1);
+border-radius: .5rem;
+position: absolute;
+top: 6.5rem;
+right: 1rem;
+width: 30%;
+height: 80vh;
+overflow-y: scroll;
+}
+
+aside h3{
+    text-align: center;
+    margin: .5rem;
+}
+
+aside ul li{
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    border: solid #eee;
+    height: 3rem;
+    width: 100%;
+    align-items: center;
+    
+    
+}
+
+aside ul li h3{
+    color: red;
+    font-size: 2rem;
+}
+aside ul li .buttonsBasket{
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+}
+
+aside ul li .add{
+    background-color: green;
+    
+}
+aside ul li  .remove{
+background-color: red;
+
+}
